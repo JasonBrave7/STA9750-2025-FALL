@@ -7,3 +7,11 @@ _ _ _
 
 Welcome! My name is Jason Braverman. I am a student at Baruch College, studying Data Analytics.
 ```
+```{r}
+#| include: false
+1+1
+```
+--------------
+Last Updated: `r format(Sys.time(), "%A %m %d, %Y at %H:%M%p")`
+
+
